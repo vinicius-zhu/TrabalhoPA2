@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrabalhoPA2</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Cabeçalho</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hint_search_by_id">Pesquisar por ID</string>
+    <string name="hint_search_title">Pesquisar</string>
+    <string name="text_search">Pesquisar</string>
+    <string name="text_search_by_title">Pesquisar</string>
+    <string name="text_search_by_id">Pesquisar por ID</string>
+    <string name="cd_poster">poster</string>
+    <string name="text_awards">Premiações</string>
+    <string name="title_year_movie">%1$s - %2$s</string>
+    <string name="text_directed_by">Diretor: %1$s</string>
+    <string name="text_actors">Elenco: %1$s</string>
+    <string name="text_language_country">%1$s - %2$s</string>
+    <string name="text_none">Nenhum</string>
+    <string name="text_production">Produção: %1$s</string>
+    <string name="text_movie_not_found">Filme não encontrado!</string>
+</resources>
